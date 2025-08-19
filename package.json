@@ -42,7 +42,7 @@
     "@endo/far": "^1.1.10",
     "@endo/marshal": "^1.6.3",
     "@endo/pass-style": "^1.5.0",
-    "@endo/patterns": "^1.4.8",
+    "@endo/patterns": "^2.0.0",
     "typescript": "^4.9.5"
   },
   "devDependencies": {
